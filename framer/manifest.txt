@@ -65,6 +65,7 @@ node_modules/@framer/framer.default/code/Checkbox.tsx
 node_modules/@framer/framer.default/code/Button.tsx
 node_modules/@framer/framer.default/README.md
 design/images/ztw8B7lc4lUGaoCMuiqwZCQkPI.jpg
+design/images/xhNers1WXwn4wQ0wm8LogsluNM.png
 design/images/vhHCgL2OmfteEr9Ky9mZ1ng1yI.png
 design/images/rnnXCkBlRObxiyLgM679hjcA.jpg
 design/images/pfZowfaLRDKauO4sHhcUeiT3z9Q.png
