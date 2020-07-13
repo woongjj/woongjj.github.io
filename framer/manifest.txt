@@ -106,6 +106,7 @@ design/images/R3GGROl6H16a8QQlo9YKpGB1Ao.jpg
 design/images/MJ3XvyGCwgT9GO007YvdF6jObmM.jpg
 design/images/IJPNEkMWsMlJd8P1PaMCB1Gfh9c.jpg
 design/images/CIZlsEKKYfFIljIihsOv779wkZ8.jpg
+design/images/8K57b7yFV8vJJLEfp3lJaLp47fQ.png
 design/images/5i0PxhUOvogBQwOrf5ZIK5vTWLM.jpg
 build/vendors.js
 build/framer.js
