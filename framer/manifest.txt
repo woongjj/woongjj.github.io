@@ -56,6 +56,14 @@ node_modules/@framer/kevinfan23.html-5-video-card/code/canvas.tsx
 node_modules/@framer/kevinfan23.html-5-video-card/code/Video.tsx
 node_modules/@framer/kevinfan23.html-5-video-card/code/Examples.tsx
 node_modules/@framer/kevinfan23.html-5-video-card/README.md
+node_modules/@framer/jakobjordan.spring-numbers/tsconfig.json
+node_modules/@framer/jakobjordan.spring-numbers/package.json
+node_modules/@framer/jakobjordan.spring-numbers/metadata/icon.png
+node_modules/@framer/jakobjordan.spring-numbers/metadata/artwork.png
+node_modules/@framer/jakobjordan.spring-numbers/dist/index.js
+node_modules/@framer/jakobjordan.spring-numbers/design/document.json
+node_modules/@framer/jakobjordan.spring-numbers/code/SpringNumbers.tsx
+node_modules/@framer/jakobjordan.spring-numbers/README.md
 node_modules/@framer/framer.default/tsconfig.json
 node_modules/@framer/framer.default/package.json
 node_modules/@framer/framer.default/dist/index.js
