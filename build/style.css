@@ -33,6 +33,17 @@ button {
     --menu-fisso-react-font-family: var(--menu-fisso-font-family);
 }
 
+/* TODO: Move into MenuFisso with a higher z-index. */
+.menu-fisso-menu-blocker {
+    z-index: 998 !important;
+}
+
+/* TODO: Move into MenuFisso with a higher z-index. */
+.menu-fisso,
+.menu-fisso-react-menu-bar {
+    z-index: 999 !important;
+}
+
 div,
 body {
     outline: none;
