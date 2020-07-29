@@ -117,7 +117,6 @@ design/images/rnnXCkBlRObxiyLgM679hjcA.jpg
 design/images/qTpvS2WVvsnVCHEX4SecFDKOWo.png
 design/images/j2httMZ5rlkWFOSls58kLNuo4A.jpg
 design/images/iZQSPmgjDJlKZJgpb0HOeQMUGZk.png
-design/images/hr2M13q7TSe4sOX0UxeG3UzRUk.mp4
 design/images/dj7NqF78VSdCgMrZfjme8DxKQ6I.png
 design/images/ak8eTbGmFQMrPiEoDdRTINx0fR8.jpg
 design/images/W7vGuZlwTvT87zBj6XjsVcpeDQ.jpg
@@ -126,7 +125,7 @@ design/images/R3GGROl6H16a8QQlo9YKpGB1Ao.jpg
 design/images/OvLYARUGJMNfQiIkuNtng1GMwU.png
 design/images/MJ3XvyGCwgT9GO007YvdF6jObmM.jpg
 design/images/IJPNEkMWsMlJd8P1PaMCB1Gfh9c.jpg
-design/images/GbQfuIgDS7IagErtmAc7ZOol5I.gif
+design/images/GbQfuIgDS7IagErtmAc7ZOol5I
 design/images/DJjQLLqk2GdS2NzfuqghXrWPs4.jpg
 design/images/CIZlsEKKYfFIljIihsOv779wkZ8.jpg
 design/images/5i0PxhUOvogBQwOrf5ZIK5vTWLM.jpg
